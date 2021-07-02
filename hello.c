@@ -5,7 +5,7 @@
 
 int main(){
     printf("Hello World\n");
-    printf(“ hello Skandha”);
+    printf(“ hello Skanda”);
     getchar();
 	return 0;
 }
